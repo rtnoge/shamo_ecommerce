@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206481800334",
+    "project_id": "shamostore-862fc",
+    "storage_bucket": "shamostore-862fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206481800334:android:7c4b016f8cdc5bf4945ddf",
+        "android_client_info": {
+          "package_name": "com.rtnoge.shamo_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206481800334-djtamg4qdqqrlmqrarjogj1jhf8dabuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR-API-HERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206481800334-djtamg4qdqqrlmqrarjogj1jhf8dabuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
